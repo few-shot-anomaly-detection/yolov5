@@ -1,0 +1,6 @@
+train: /home/lucien/datasets/koujian_data/yolov5_spikes/images/train
+val: /home/lucien/datasets/koujian_data/yolov5_spikes/images/val
+test: /home/lucien/datasets/koujian_data/yolov5_spikes/images/test
+
+nc: 11
+names: ['spike_8B', 'turnout', 'sleeper', 'component', 'opening', 'a', 'bolt_out', 'bolt_in', 'rail', 'b', 'plate']
